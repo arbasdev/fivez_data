@@ -1,8 +1,3 @@
-{
-  "client" : {
-    "settings" : {
-      "modify_game" : true,
-      "picture_game" : false
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d39bba63cc3486d814592db838bcec226fee51542c0889c2c34f706f693d1ee
+size 104

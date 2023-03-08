@@ -1,20 +1,3 @@
-objs
-14650, trukstp04, ab_trukstpC, 151, 0
-14651, trukstp05, ab_trukstpD, 151, 0
-14652, trukstp02, ab_trukstpA, 151, 0
-14653, trukstp03, ab_trukstpB, 151, 0
-14654, trukstp06, ab_trukstpE, 151, 4
-14655, trukstp01, ab_trukstpA, 151, 0
-14656, tsdinerXitbox, tsdinerXitbox, 151, 0
-14657, cuntchairs, ab_trukstpA, 151, 0
-end
-tobj
-end
-path
-end
-2dfx
-end
-anim
-end
-txdp
-end
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca4c0b37f59e8facf24f96777e70157b60ffcca15f29139b54337f503d52d9e5
+size 365
