@@ -1,0 +1,97 @@
+cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
+"battlez_axe" camnorm=1 alphamode=2 height=256 width=256 img=be51d263
+"bladez" camnorm=1 alphamode=2 height=512 width=512 img=05dd3fd1
+"wcamo_1" camnorm=1 alphamode=2 height=128 width=128 img=2f8d3261
+"woodz" camnorm=1 alphamode=2 height=128 width=128 img=a0781e26
+"Ape_by_mta_h1z1" camnorm=1 alphamode=2 height=512 width=512 img=fb574303 png=f74e49f4
+"armerz_by_mta_h1z1" camnorm=1 alphamode=2 height=1024 width=1024 img=4c242fb1 png=0d07d5a8
+"armor_by_mta_h1z1" camnorm=1 alphamode=2 height=512 width=512 img=61d3721c png=3838caf6
+"armor_fireyer" camnorm=1 alphamode=2 height=512 width=512 img=fda4efb5 png=dbd8b4e4
+"armor_fuckoff" camnorm=1 alphamode=2 height=512 width=512 img=70f60bb0 png=cf5e8861
+"armor_soldier" camnorm=1 alphamode=2 height=1024 width=1024 img=ca195218 png=f22afa0a
+"armor_thunder" camnorm=1 alphamode=2 height=512 width=512 img=d0a255f0 png=7f2a0b41
+"balaclava_by_mta_h1z1" camnorm=1 alphamode=2 height=1024 width=1024 img=e505a388 png=a1622ff5
+"bald" camnorm=1 alphamode=2 height=512 width=512 img=88ad9c95 png=defb9ee3
+"bandana_china" camnorm=1 alphamode=2 height=512 width=512 img=36c23d46 png=883df884
+"bikerhelmet" camnorm=1 alphamode=2 height=256 width=256 img=52a7208a png=d8c92aac
+"cerdozombie" camnorm=1 alphamode=2 height=256 width=256 img=7adc9b37 png=ede8ad93
+"Chucky_Body_D" camnorm=1 alphamode=2 height=512 width=512 img=dfd6e11d png=757c838b
+"Chucky_Eye_D" camnorm=1 alphamode=2 height=64 width=64 img=5701fe27 png=52f23230
+"Chucky_Head_D" camnorm=1 alphamode=2 height=256 width=256 img=95587a52 png=75628e29
+"deerskull_by_mta_h1z1" camnorm=1 alphamode=2 height=1024 width=1024 img=0484d12c png=ede35eb2
+"demon_by_mta_h1z1" camnorm=1 alphamode=2 height=512 width=512 img=afe04a5e png=48ca31a0
+"helm_by_mta_h1z1" camnorm=1 alphamode=2 height=512 width=512 img=6755cde8 png=17cb958e
+"helmet" camnorm=1 alphamode=2 height=1024 width=1024 img=dfa28d06 png=1c729e28
+"Hgear_Hat_4thJuly_01_D" camnorm=1 alphamode=2 height=1024 width=1024 img=aaf0ab7c png=46530184
+"ht_by_mta_h1z1" camnorm=1 alphamode=2 height=1024 width=1024 img=927f5988 png=057cafd4
+"R02_FAll_HARE" camnorm=1 alphamode=2 height=512 width=512 img=102fe0cb png=96814e49
+"R03_FAll_HARE" camnorm=1 alphamode=2 height=512 width=512 img=06add40e png=5b717517
+"SkullApe_by_mta_h1z1" camnorm=1 alphamode=2 height=512 width=512 img=097952b6 png=3a95f619
+"skullygrn" camnorm=1 alphamode=2 height=512 width=512 img=2e4b34f8 png=fe75beb3
+"vampiro" camnorm=1 alphamode=2 height=256 width=256 img=7c063ef4 png=7c9cd0eb
+"W01_WING" camnorm=1 alphamode=2 height=512 width=512 img=d8cc952a png=ac7725ec
+"W02_WING" camnorm=1 alphamode=2 height=512 width=512 img=bbf8ff8a png=5a435092
+"W03_WING" camnorm=1 alphamode=2 height=256 width=256 img=13e15df1 png=f81a2128
+"W05_WING" camnorm=1 alphamode=2 height=512 width=512 img=0857b317 png=92cbc8be
+"W06_WING" camnorm=1 alphamode=2 height=256 width=256 img=3a051d03 png=7ff9d4e0
+"gta_int_imgwatergun" camnorm=1 alphamode=2 height=512 width=512 img=b6005365 png=18a12c5d
+"chip_stack09" height=256 width=256 img=08c2bb6c png=404db7f5
+"chip_stack10" height=512 width=512 img=04795b1d png=35f93afe
+"cream" height=256 width=256 img=a3af047a png=6388826e
+"donut" height=256 width=256 img=c87d4401 png=185149f5
+"Headphones" height=128 width=128 img=dee4d76f png=2ee59052
+"heart_fivezcity" height=256 width=256 img=bf092878 png=5115344a
+"pkr_chp_hi01" height=256 width=256 img=04caf100 png=b96b094c
+"pkr_chplo08" height=512 width=512 img=16b0ca7f png=b162b9ed
+"pkr_chplo10" height=256 width=256 img=03760108 png=db8548a8
+"pkr_chplo11" height=256 width=256 img=07d7cebe png=8163617f
+"R01_FAll_HARE" height=256 width=256 img=8022eb22 camnorm=1 alphamode=2 png=c18b4d97
+"stawberry" height=256 width=256 img=a85c962e png=2489ac42
+"stick" height=256 width=256 img=05790d60 png=ccfe4583
+"w1" height=512 width=512 img=c2aec9a6 png=d2dabccb
+"grapes" height=256 width=256 img=f207d23e png=9236eb1e
+"leave" height=256 width=256 img=47e84ad3 png=1577b026
+"mushrooms1" height=256 width=256 img=a7db62dd png=5cd0b816
+"mushrooms2" height=256 width=256 img=9f5b64e1 png=3f978385
+"Watermelon" height=256 width=256 img=029e6203 png=2c17692b
+"watergun" height=512 width=512 img=132b8aab png=4a368499
+"NeonWires_baseColor" height=256 width=256 img=c92c5508 png=6dbfdc0e
+"Frame_baseColor" height=128 width=128 img=bc60984d png=65f26364
+"bint4ng" camnorm=1 alphamode=2 height=1024 width=4096 img=8a2a1998 png=bccf31df
+"ls_esn" camnorm=1 alphamode=2 height=1024 width=4096 img=7ebbc9a6 png=e66fde46
+"afternoon_sky_1" camnorm=1 alphamode=2 height=2048 width=2048 img=a82ca744 png=d342ab13
+"daily_sky_1" camnorm=1 alphamode=2 height=2048 width=2048 img=ee967fc7 png=3d4e1d4b
+"night_sky_1" camnorm=1 alphamode=2 height=2048 width=2048 img=ea2e2256 png=f82117db
+"DefaultMaterial_baseColor" camnorm=1 alphamode=2 height=256 width=256 img=a7e94203
+"lambert1_Base_Color" camnorm=1 alphamode=2 height=256 width=256 img=e4c04012
+"mushroom_enviroment" camnorm=1 alphamode=2 height=256 width=256 img=72db32bc
+"wire_135059008_Base_Color" camnorm=1 alphamode=2 height=256 width=256 img=03b7c0fc
+"bag_duck" camnorm=1 alphamode=2 height=512 width=512 img=48a20b94 png=771c4354
+"hat_duck_Best1" camnorm=1 alphamode=2 height=128 width=128 img=c7f7675e png=19415675
+"hat_duck_Best2" camnorm=1 alphamode=2 height=256 width=256 img=6b3a2690 png=e40e9a33
+"hat_duck_Best3" camnorm=1 alphamode=2 height=512 width=512 img=b1b47acf png=99b5ef7c
+"hat_duck_Best4" camnorm=1 alphamode=2 height=256 width=256 img=0c71e51c png=88f15e3f
+"W_TD" camnorm=1 alphamode=2 height=256 width=256 img=5215372c png=d8bbea76
+"colot_tent" camnorm=1 alphamode=2 height=128 width=128 img=3fdad8de png=bd34794a
+"T" camnorm=1 alphamode=2 height=256 width=512 img=e2ed5dd6 png=ace024c4
+"beebag_01" camnorm=1 alphamode=2 height=512 width=512 img=a5ef5512 png=d0714af6
+"beebag_02" camnorm=1 alphamode=2 height=512 width=512 img=fcaf84cf png=de19635d
+"beehat01" camnorm=1 alphamode=2 height=512 width=512 img=cb2d7698 png=3542274f
+"beehat02" camnorm=1 alphamode=2 height=512 width=512 img=565864cc png=c8698603
+"bunny_mtah1z1" camnorm=1 alphamode=2 height=256 width=256 img=9225fe9e png=f9084367
+"hat_gesso_color1" camnorm=1 alphamode=2 height=128 width=128 img=19a45047 png=8e43efaf
+"hat_penguin_color" camnorm=1 alphamode=2 height=128 width=128 img=84d20871 png=e3b05be4
+"hat_shark_color" camnorm=1 alphamode=2 height=64 width=64 img=0b55e329 png=69f40910
+"MANAO_BAG_CUTE" camnorm=1 alphamode=2 height=512 width=512 img=937ce3c3 png=6378893a
+"bs" camnorm=1 alphamode=2 height=256 width=256 img=904a7b18 png=97610a9a
+"bs2" camnorm=1 alphamode=2 height=256 width=256 img=9ba0fa68 png=6c392dd9
+"bs4" camnorm=1 alphamode=2 height=256 width=256 img=dd9df019 png=0df94f14
+"bs5" camnorm=1 alphamode=2 height=256 width=256 img=791fb188 png=6f251caa
+"bs6" camnorm=1 alphamode=2 height=256 width=256 img=707cc2cb png=53c7b610
+"bs7" camnorm=1 alphamode=2 height=256 width=256 img=6d4c7480 png=4e3e04d6
+"coloblue" height=64 width=64 img=f86c8b00 png=1c673e22
+"colorblack" height=64 width=64 img=e7da8f80 png=205f0869
+"Material_lineColor" height=512 width=512 img=4268b41a png=f1a37c17
+"MaterialFB_baseColor" height=1024 width=2048 img=431303ba png=4674fcba
+"tank_water_base" height=512 width=512 img=0e50be84 png=5f97716f
+"duck_base" height=512 width=512 img=d65df719 png=f059c9b9
